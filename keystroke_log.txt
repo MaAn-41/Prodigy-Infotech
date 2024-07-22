@@ -1,0 +1,11 @@
+'u' pressed
+'s' pressed
+'m' pressed
+'a' pressed
+'n' pressed
+'a' pressed
+'m' pressed
+'j' pressed
+'a' pressed
+'d' pressed
+Key.esc pressed
